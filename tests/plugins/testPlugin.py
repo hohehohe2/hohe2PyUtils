@@ -1,0 +1,1 @@
+a = 'py file plugin'
